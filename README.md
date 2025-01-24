@@ -5,4 +5,3 @@
 
  Ferramentas usadas: Github desktop / Vscode
 
- Linha Criada no Vscode
