@@ -1,2 +1,4 @@
 # Desenvolvimento Curso em video
- Repositorio curso em video git-github
+ Repositório curso em video git-github
+
+ Repositório criado durante uma aula
